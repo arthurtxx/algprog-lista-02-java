@@ -1,21 +1,6 @@
 import java.util.Scanner;
 
 
-// PASSO 10: Calcular o custo de CADA destino separadamente
-// -> custo Alemanha = preço Alemanha * pessoas Alemanha
-// -> custo Portugal = preço Portugal * pessoas Portugal
-// -> custo Itália = preço Itália * pessoas Itália
-
-// PASSO 11: Somar os 3 custos para achar o VALOR TOTAL da viagem
-
-// PASSO 12: Somar as 3 quantidades de pessoas para achar o TOTAL DE PESSOAS
-
-// PASSO 13: Imprimir o valor total da viagem (pensa se quer usar aquele
-// String.format que a gente aprendeu, pra ficar com 2 casas decimais)
-
-// PASSO 14: Imprimir o total de pessoas
-
-
 public class viagem {
     public static void main(String[] args) {
 
